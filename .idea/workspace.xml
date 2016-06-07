@@ -24,8 +24,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="375">
-              <caret line="93" column="74" selection-start-line="93" selection-start-column="74" selection-end-line="93" selection-end-column="74" />
+            <state relative-caret-position="240">
+              <caret line="382" column="43" selection-start-line="382" selection-start-column="43" selection-end-line="382" selection-end-column="43" />
               <folding />
             </state>
           </provider>
@@ -34,8 +34,8 @@
       <file leaf-file-name="mail.php" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mail.php">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="135">
-              <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+            <state relative-caret-position="60">
+              <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
               <folding />
             </state>
           </provider>
@@ -89,8 +89,8 @@
       <file leaf-file-name="layout.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/layout.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="337">
-              <caret line="438" column="1" selection-start-line="438" selection-start-column="1" selection-end-line="438" selection-end-column="1" />
+            <state relative-caret-position="32">
+              <caret line="852" column="18" selection-start-line="852" selection-start-column="18" selection-end-line="852" selection-end-column="18" />
               <folding />
             </state>
           </provider>
@@ -101,8 +101,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/css/layout.css" />
         <option value="$PROJECT_DIR$/mail.php" />
+        <option value="$PROJECT_DIR$/css/layout.css" />
         <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
@@ -113,8 +113,8 @@
     <detection-done>true</detection-done>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="121" />
-    <option name="y" value="77" />
+    <option name="x" value="68" />
+    <option name="y" value="119" />
     <option name="width" value="1155" />
     <option name="height" value="763" />
   </component>
@@ -285,15 +285,15 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1465238976928</updated>
-      <workItem from="1465238978324" duration="11138000" />
+      <workItem from="1465238978324" duration="13385000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="11138000" />
+    <option name="totallyTimeSpent" value="13385000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="121" y="77" width="1155" height="763" extended-state="0" />
+    <frame x="68" y="119" width="1155" height="763" extended-state="0" />
     <editor active="true" />
     <layout>
       <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25661376" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
@@ -363,26 +363,26 @@
         <state />
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/css/layout.css">
+    <entry file="file://$PROJECT_DIR$/mail.php">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="337">
-          <caret line="438" column="1" selection-start-line="438" selection-start-column="1" selection-end-line="438" selection-end-column="1" />
+        <state relative-caret-position="60">
+          <caret line="4" column="39" selection-start-line="4" selection-start-column="39" selection-end-line="4" selection-end-column="39" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/mail.php">
+    <entry file="file://$PROJECT_DIR$/css/layout.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="135">
-          <caret line="9" column="2" selection-start-line="9" selection-start-column="2" selection-end-line="9" selection-end-column="2" />
+        <state relative-caret-position="32">
+          <caret line="852" column="18" selection-start-line="852" selection-start-column="18" selection-end-line="852" selection-end-column="18" />
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="375">
-          <caret line="93" column="74" selection-start-line="93" selection-start-column="74" selection-end-line="93" selection-end-column="74" />
+        <state relative-caret-position="240">
+          <caret line="382" column="43" selection-start-line="382" selection-start-column="43" selection-end-line="382" selection-end-column="43" />
           <folding />
         </state>
       </provider>

@@ -2,7 +2,7 @@
 $email = $_POST['contactEmail'];
 $message = $_POST['contactMessage'];
 $formcontent="From: $name \n Message: $message";
-$recipient = "emailaddress@here.com";
+$recipient = "mikethecodegeek@gmail.com";
 $subject = $_POST['contactSubject'];
 $mailheader = "From: $email \r\n";
 mail($recipient, $subject, $formcontent, $mailheader) or die("Error!");
