@@ -35,7 +35,8 @@
     {
       "institution": "Coding House",
       "area": "Javascript Development",
-      "studyType": "Live-in Coding Boot Camp",
+      "studyType": "Intensive 14 Week Live-in Coding Boot Camp",
+      "summary": "Coding using the M.E.A.N stack 14 to 16 hours a day",
       "startDate": "2016-04-11",
       "endDate": "2016-07-22",
       "courses": [
@@ -77,28 +78,22 @@
         ]
     },
     {
-      "company": "Habilitation Assistance Corporation",
       "position": "Lead Driver",
-      "website": "www.habilitationassistance.com",
       "startDate": "2014-01-01",
       "endDate": "2015-03-01",
-      "summary": "Habilitation Assistance Corporation’s mission is to support individuals in realizing their personal visions.",
       "highlights": [
         "Awarded for outstanding attendance record",
         "Awarded the 'Gumby Award', this award is given to one employee per year who goes above and beyond the call of duty and shows dedication to the company mission.",
-        "Offered Transportation Coordinator after 1 year of service"
+        "Promoted to Transportation Coordinator after 1 year of service"
         ]
     },
     {
-      "company": "Habilitation Assistance Corporation",
       "position": "Driver",
-      "website": "www.habilitationassistance.com",
       "startDate": "2010-09-15",
       "endDate": "2014-01-01",
-      "summary": "Habilitation Assistance Corporation’s mission is to support individuals in realizing their personal visions.",
       "highlights": [
         "Awarded yearly for outstanding attendance",
-        "Offered Lead Driver position after 3 years of service"
+        "Promoted Lead Driver position after 3 years of service"
       ]
     }
   ],
@@ -156,7 +151,6 @@
       "level": "Exposure",
       "keywords": [
         "Mobile Development",
-        "ExpressJS",
         "SQL"
       ]
     }
@@ -176,17 +170,11 @@
       ]
     },
     {
-      "name": "Games",
+      "name": "Games & Puzzles",
       "keywords": [
         "Chess",
         "Poker",
-        "BlackJack"
-      ]
-    },
-    {
-      "name": "Puzzles",
-      "keywords": [
-        "Chess",
+        "BlackJack",
         "Sudoku"
       ]
     }
