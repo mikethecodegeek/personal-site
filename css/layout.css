@@ -337,8 +337,13 @@ ul#nav li.current a { color: #F06000; }
 }
 .node {
   	width: 50%;
-  	-moz-animation: wordpress 2s ease;
-  	-webkit-animation: wordpress 2s ease;
+  	-moz-animation: node 2s ease;
+  	-webkit-animation: node 2s ease;
+}
+.express {
+    width: 75%;
+    -moz-animation: express 2s ease;
+    -webkit-animation: express 2s ease;
 }
 .css {
   	width: 70%;
@@ -358,19 +363,23 @@ ul#nav li.current a { color: #F06000; }
 
 @-moz-keyframes photoshop {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 75%;  }
 }
 @-moz-keyframes illustrator {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 70%;  }
 }
-@-moz-keyframes wordpress {
+@-moz-keyframes node {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+@-moz-keyframes express {
+    0%   { width: 0px;  }
+    100% { width: 75%;  }
+}
 @-moz-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 70%;  }
 }
 @-moz-keyframes html5 {
   0%   { width: 0px;  }
@@ -378,24 +387,28 @@ ul#nav li.current a { color: #F06000; }
 }
 @-moz-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 65%;  }
 }
 
 @-webkit-keyframes photoshop {
   0%   { width: 0px;  }
-  100% { width: 60%;  }
+  100% { width: 75%;  }
 }
 @-webkit-keyframes illustrator {
   0%   { width: 0px;  }
-  100% { width: 55%;  }
+  100% { width: 70%;  }
 }
-@-webkit-keyframes wordpress {
+@-webkit-keyframes node {
   0%   { width: 0px;  }
   100% { width: 50%;  }
 }
+@-webkit-keyframes express {
+    0%   { width: 0px;  }
+    100% { width: 75%;  }
+}
 @-webkit-keyframes css {
   0%   { width: 0px;  }
-  100% { width: 90%;  }
+  100% { width: 70%;  }
 }
 @-webkit-keyframes html5 {
   0%   { width: 0px;  }
@@ -403,7 +416,7 @@ ul#nav li.current a { color: #F06000; }
 }
 @-webkit-keyframes jquery {
   0%   { width: 0px;  }
-  100% { width: 50%;  }
+  100% { width: 65%;  }
 }
 
 /* ------------------------------------------------------------------ */
@@ -557,6 +570,7 @@ ul#nav li.current a { color: #F06000; }
 }
 .popup-modal a:hover {	color: #00CCCC; }
 .popup-modal a.popup-modal-dismiss { margin-left: 24px; }
+.popup-modal a.popup-modal-github { margin-left: 24px; }
 
 
 /* fadein/fadeout effect for modal popup
