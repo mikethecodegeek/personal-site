@@ -1007,3 +1007,25 @@ footer .social-links li:first-child { margin-left: 0; }
 }
 #go-top a:hover { background-color: #0F9095; }
 
+.skills > div> i {
+   font-size: 8rem;
+}
+
+.skill-grid {
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr 1fr;
+   margin-bottom: 10px;
+   justify-items: center;
+}
+.skill-grid-tools {
+   display: grid;
+   grid-template-columns: 1fr 1fr 1fr;
+   justify-items: center;
+}
+.skill-grid-two {
+   display: grid;
+   grid-template-columns: 1fr 1fr;
+   justify-items: center;
+   margin-bottom: 10px;
+}
+
